@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o Fabio Silvares 
 
-<!--
-**fabiosilvaresjr/fabiosilvaresjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Full Stack | Sales Development Representative (SDR) 
 
-Here are some ideas to get you started:
+Sou um profissional com uma trajetória única: uno o conhecimento do Agronegócio e Nutrição Animal (Zootecnia), a habilidade de comunicação e negociação de vendas de alto impacto (SDR), e a lógica da Engenharia de Software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco é entender dores reais de negócios e construir soluções tecnológicas web escaláveis para resolvê-las.
+
+- Atualmente focando em: **Node.js, Express, MySQL, MongoDB e React.**
+- Projeto em destaque: **Alimentuus** (Catálogo Digital e Gestão com integração de IA para o setor Agro).
+- Nas horas vagas: Busco estudos sobre novas tecnologias e aprimorar meu inglês.
+
+### Tecnologias e Ferramentas
+`JavaScript` | `Node.js` | `MySQL` | `HTML5` | `CSS3` | `Git` | `TypeScript`
+
+### Entre em contato:
+- [LinkedIn](www.linkedin.com/in/fabio-silvaresjunior)
+- Email: fabioasilvares@gmail.com
