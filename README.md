@@ -1,18 +1,23 @@
-# Olá! Eu sou o Fabio Silvares 
+## Olá! Eu sou o Fabio Silvares
 
-### Desenvolvedor Full Stack | Sales Development Representative (SDR) 
+**Desenvolvedor Backend / Full Stack com background em Negócios e Vendas (SDR)**
 
-Sou um profissional com uma trajetória única: uno o conhecimento do Agronegócio e Nutrição Animal (Zootecnia), a habilidade de comunicação e negociação de vendas de alto impacto (SDR), e a lógica da Engenharia de Software. 
+Sou um desenvolvedor com perfil híbrido, unindo **engenharia de software**, **visão de negócio** e **comunicação comercial**. Minha trajetória passa pelo **Agronegócio e Nutrição Animal (Zootecnia)**, pela área de **vendas consultivas (SDR)** e hoje pela construção de **soluções web escaláveis**, focadas em resolver dores reais de empresas.
 
-Meu foco é entender dores reais de negócios e construir soluções tecnológicas web escaláveis para resolvê-las.
+Tenho como principal objetivo **traduzir problemas de negócio em soluções técnicas eficientes**, com código organizado, foco em dados e impacto operacional.
 
-- Atualmente focando em: **Node.js, Express, MySQL, MongoDB e React.**
-- Projeto em destaque: **Alimentuus** (Catálogo Digital e Gestão com integração de IA para o setor Agro).
-- Nas horas vagas: Busco estudos sobre novas tecnologias e aprimorar meu inglês.
+### Foco atual
+- Backend com **Node.js, Express, TypeScript**
+- Bancos de dados **MySQL e MongoDB**
+- Construção de APIs e aplicações web escaláveis
+- Evolução gradual para **React** no front-end e estudo de Java
+
+### Projeto em destaque
+**Alimentuus** – Sistema de automação de catálogos digitais e gestão de produtos para o setor agro, com geração de PDFs on‑demand e foco em eficiência comercial.
 
 ### Tecnologias e Ferramentas
-`JavaScript` | `Node.js` | `MySQL` | `HTML5` | `CSS3` | `Git` | `TypeScript`
+`JavaScript` · `TypeScript` · `Node.js` · `Express` · `MySQL` · `MongoDB` · `HTML5` · `CSS3` · `Git` · `Java`
 
-### Entre em contato:
-- [LinkedIn](www.linkedin.com/in/fabio-silvaresjunior)
-- Email: fabioasilvares@gmail.com
+### Contato
+- **LinkedIn:** https://www.linkedin.com/in/fabiosilvaresjr  
+- **Email:** fabioasilvares@gmail.com
