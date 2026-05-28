@@ -7,7 +7,7 @@ Atuo desenvolvendo soluções que transformam processos manuais em fluxos digita
 
 ### Sobre Mim
 
-* **Momento Atual:** Desenvolvedor Backend em atuação prática na **Place Tecnologia e Inovação** (início em 26/05).  
+* **Momento Atual:** Desenvolvedor Backend em atuação prática na **Place Tecnologia e Inovação** (início em 01/06).  
 * **Pesquisa Acadêmica:** Pesquisador colaborador no grupo **CNPq - UFF/FGV**, atuando em estudos sobre Inteligência Artificial e novas tecnologias no mercado de capitais.  
 * **Formação:** Estudante de Análise e Desenvolvimento de Sistemas (ADS).  
 * **Diferencial:** Background em vendas (SDR e consultor), com forte capacidade de entender regras de negócio e traduzir problemas reais em soluções técnicas eficientes.
