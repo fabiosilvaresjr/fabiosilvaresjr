@@ -54,8 +54,7 @@ Atuo desenvolvendo soluções que transformam processos manuais em fluxos digita
 * **Diferencial:** Arquitetura otimizada utilizando JDBC puro para consultas nativas, garantindo performance e controle total sobre a persistência.
 * **Stack:** Java (Spring Boot), Angular, PostgreSQL, JWT (Spring Security) e Flyway.
 
-#### Sistema de Cidades e Comércios
-[Sistema de Gestão de Contatos](https://github.com/fabiosilvaresjr/gestao-cidades) — *API de Gestão*
+[Sistema de Cidades e Comércios](https://github.com/fabiosilvaresjr/gestao-cidades) — *API de Gestão*
 * Projeto desenvolvido para reforçar conceitos de backend e arquitetura de aplicações, incluindo modelagem de dados, validação e estruturação de APIs.
 * Integra backend em Java com frontend Angular.
 * **Stack:** Java, Angular, Maven, MySQL.
