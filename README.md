@@ -1,6 +1,6 @@
 # Olá, eu sou o Fabio Junior!
 
-Desenvolvedor Backend com foco em Java/Node.js e Angular/TypeScript, construindo sistemas web e automações orientadas a dados.  
+Desenvolvedor Full Stack com foco em Java/Node.js para o back-end e Angular/TypeScript para o front-end, construindo sistemas web e automações orientadas a dados.  
 Atuo desenvolvendo soluções que transformam processos manuais em fluxos digitais escaláveis, com experiência prática em projeto real B2B focado em geração de catálogos e eficiência comercial, além de criação de programas de ponta-a-ponta (Modelagem de banco de dados, back-end, security, testes e front-end).
 
 ---
@@ -42,19 +42,20 @@ Atuo desenvolvendo soluções que transformam processos manuais em fluxos digita
 
 ### Destaques de Projetos
 
-#### Alimentuus — *SaaS de Catálogos Digitais B2B*
+[Alimentuus](https://github.com/fabiosilvaresjr/alimentuus-catalogo) — *SaaS de Catálogos Digitais B2B*
 * Sistema fullstack desenvolvido para automatizar a geração de catálogos comerciais em PDF com base em regras de negócio.
 * Substitui processos manuais, trazendo padronização e ganho operacional para equipes comerciais.
 * **Resultado:** redução de tempo na produção de materiais e melhoria na consistência das entregas comerciais.
 * **Stack:** Node.js, TypeScript, Express, MySQL, Handlebars e Bootstrap.
 
-#### Sistema de Gestão de Contatos — *API de Gestão e Autenticação*
+[Sistema de Gestão de Contatos](https://github.com/fabiosilvaresjr/java_spring) — *API de Gestão e Autenticação*
 * API RESTful de alta performance para gerenciamento de contatos, estruturada com foco em segurança e controle de dados.
 * Implementação robusta de autenticação JWT e controle de acesso RBAC, garantindo segurança entre as camadas de usuário e administrador.
 * **Diferencial:** Arquitetura otimizada utilizando JDBC puro para consultas nativas, garantindo performance e controle total sobre a persistência.
 * **Stack:** Java (Spring Boot), Angular, PostgreSQL, JWT (Spring Security) e Flyway.
 
 #### Sistema de Cidades e Comércios
+[Sistema de Gestão de Contatos](https://github.com/fabiosilvaresjr/gestao-cidades) — *API de Gestão*
 * Projeto desenvolvido para reforçar conceitos de backend e arquitetura de aplicações, incluindo modelagem de dados, validação e estruturação de APIs.
 * Integra backend em Java com frontend Angular.
 * **Stack:** Java, Angular, Maven, MySQL.
